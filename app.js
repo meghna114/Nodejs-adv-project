@@ -13,7 +13,7 @@ const client = new OAuth2Client(
   process.env.GOOGLE_REDIRECT_URI
 );
 
-// Serve static files from the "public" directory
+
 app.use(express.static(path.join(__dirname, 'public')));
 
 // Connect to MongoDB
