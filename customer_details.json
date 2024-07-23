@@ -1,0 +1,53 @@
+[
+    {
+      "customer_name": "arthmate1",
+      "dob": "2001-09-19",
+      "monthly_income": "1200"
+    },
+    {
+      "customer_name": "arthmate2",
+      "dob": "2002-09-19",
+      "monthly_income": "1200"
+    },
+    {
+      "customer_name": "arthmate3",
+      "dob": "2003-09-19",
+      "monthly_income": "1200"
+    },
+    {
+      "customer_name": "arthmate4",
+      "dob": "2004-09-19",
+      "monthly_income": "1200"
+    },
+    {
+      "customer_name": "arthmate5",
+      "dob": "2005-09-19",
+      "monthly_income": "1200"
+    },
+    {
+      "customer_name": "arthmate6",
+      "dob": "2006-09-19",
+      "monthly_income": "1200"
+    },
+    {
+      "customer_name": "arthmate7",
+      "dob": "2007-09-19",
+      "monthly_income": "1200"
+    },
+    {
+      "customer_name": "arthmate8",
+      "dob": "2008-09-19",
+      "monthly_income": "1200"
+    },
+    {
+      "customer_name": "arthmate9",
+      "dob": "1901-09-19",
+      "monthly_income": "1200"
+    },
+    {
+      "customer_name": "arthmate10",
+      "dob": "1900-09-19",
+      "monthly_income": "1200"
+    }
+  ]
+  
